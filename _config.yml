@@ -11,7 +11,7 @@ github_repo: "https://github.com/masterlokZ/masterlokZ.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "hello world!"
+sidebar-about-description: "永远走在前列,不被时代所淘汰"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
